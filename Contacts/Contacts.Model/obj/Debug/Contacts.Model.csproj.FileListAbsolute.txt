@@ -1,0 +1,12 @@
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\bin\Debug\Contacts.Model.dll
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\bin\Debug\Contacts.Model.pdb
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\obj\Debug\Contacts.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\obj\Debug\Contacts.Model.dll
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\obj\Debug\Contacts.Model.pdb
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\bin\Debug\Contacts.Model.dll.config
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\bin\Debug\EntityFramework.dll
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\bin\Debug\EntityFramework.xml
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\obj\Debug\Contacts.Model.csproj.CopyComplete
+C:\Users\Jurij\source\repos\Contacts\Contacts.Model\obj\Debug\Contacts.Model.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\bin\Debug\Contacts.Interfaces.dll
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\bin\Debug\Contacts.Interfaces.pdb
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\bin\Debug\Contacts.Model.dll
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\bin\Debug\Contacts.Model.pdb
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\bin\Debug\Contacts.Model.dll.config
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\obj\Debug\Contacts.Interfaces.csprojAssemblyReference.cache
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\obj\Debug\Contacts.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\obj\Debug\Contacts.Interfaces.csproj.CopyComplete
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\obj\Debug\Contacts.Interfaces.dll
+C:\Users\Jurij\source\repos\Contacts\Contacts.Interfaces\obj\Debug\Contacts.Interfaces.pdb
